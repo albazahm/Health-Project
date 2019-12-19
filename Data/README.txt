@@ -1,0 +1,1 @@
+This folder contains all the Comma-Separated-Values (CSV) files used for the analysis. When attempting to run the analysis or the dash application, please either place these files in the same directory as the Jupyter-Notebook file and the dash application OR change the code to set a new directory for where these files are located on your device.
