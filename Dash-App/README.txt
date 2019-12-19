@@ -1,1 +1,3 @@
 This folder contains a Python-3.7 .py file (mydashapp.py) for the Dash web application of the project. The "preprocess.py" file is a call-back used in the mydashapp.py to preprocess the .csv files used as input. Also in this file is a 'requirements.txt' file containing all the dependencies and libraries needed to sucessfully run the application. The 'app.yaml' file contains the settings for deployment into the Google Cloud Platform.
+
+Please install the libraries according to the version listed in the "requirements.txt" file for successful execution of the application. Also, make sure the CSV files in the 'data' folder are in the same directory as the application.
